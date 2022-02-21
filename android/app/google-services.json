@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235570297371",
+    "project_id": "unipre-c52bf",
+    "storage_bucket": "unipre-c52bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235570297371:android:e713923592efc83942d6be",
+        "android_client_info": {
+          "package_name": "com.example.unipre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235570297371-ofsqct08bghupujtj0fhtnavflccnvg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unipre",
+            "certificate_hash": "dcd6bbf83ae750105f1cc1f6b3ce0e741f206a83"
+          }
+        },
+        {
+          "client_id": "235570297371-dg4n4glem1fd4t59gef55q439tnfddhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzoWpw7nN515UPU5t7Rd4OnDeNFkeh7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235570297371-dg4n4glem1fd4t59gef55q439tnfddhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
